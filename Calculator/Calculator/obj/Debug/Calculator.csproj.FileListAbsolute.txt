@@ -1,1 +1,9 @@
 F:\Documents\GitHub\calculator-moicaycay\Calculator\Calculator\bin\Debug\Calculator.exe.config
+F:\Documents\GitHub\calculator-moicaycay\Calculator\Calculator\bin\Debug\Calculator.exe
+F:\Documents\GitHub\calculator-moicaycay\Calculator\Calculator\bin\Debug\Calculator.pdb
+F:\Documents\GitHub\calculator-moicaycay\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+F:\Documents\GitHub\calculator-moicaycay\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+F:\Documents\GitHub\calculator-moicaycay\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+F:\Documents\GitHub\calculator-moicaycay\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+F:\Documents\GitHub\calculator-moicaycay\Calculator\Calculator\obj\Debug\Calculator.exe
+F:\Documents\GitHub\calculator-moicaycay\Calculator\Calculator\obj\Debug\Calculator.pdb
