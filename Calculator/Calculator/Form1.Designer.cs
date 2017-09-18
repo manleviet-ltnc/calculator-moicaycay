@@ -211,7 +211,7 @@
             this.button14.Name = "button14";
             this.button14.Size = new System.Drawing.Size(45, 36);
             this.button14.TabIndex = 16;
-            this.button14.Text = "-/+";
+            this.button14.Text = "-";
             this.button14.UseVisualStyleBackColor = true;
             this.button14.Click += new System.EventHandler(this.button14_Click);
             // 
@@ -223,6 +223,7 @@
             this.button17.TabIndex = 17;
             this.button17.Text = "CE";
             this.button17.UseVisualStyleBackColor = true;
+            this.button17.Click += new System.EventHandler(this.button17_Click);
             // 
             // button18
             // 
@@ -232,6 +233,7 @@
             this.button18.TabIndex = 18;
             this.button18.Text = "C";
             this.button18.UseVisualStyleBackColor = true;
+            this.button18.Click += new System.EventHandler(this.button18_Click);
             // 
             // xoa
             // 
@@ -241,6 +243,7 @@
             this.xoa.TabIndex = 19;
             this.xoa.Text = "Xóa";
             this.xoa.UseVisualStyleBackColor = true;
+            this.xoa.Click += new System.EventHandler(this.xoa_Click);
             // 
             // chia
             // 
@@ -260,6 +263,7 @@
             this.phan_tram.TabIndex = 21;
             this.phan_tram.Text = "%";
             this.phan_tram.UseVisualStyleBackColor = true;
+            this.phan_tram.Click += new System.EventHandler(this.phan_tram_Click);
             // 
             // can_bac_hai
             // 
@@ -269,6 +273,7 @@
             this.can_bac_hai.TabIndex = 22;
             this.can_bac_hai.Text = "✔";
             this.can_bac_hai.UseVisualStyleBackColor = true;
+            this.can_bac_hai.Click += new System.EventHandler(this.can_bac_hai_Click);
             // 
             // binh_phuong
             // 
@@ -278,6 +283,7 @@
             this.binh_phuong.TabIndex = 23;
             this.binh_phuong.Text = "x2";
             this.binh_phuong.UseVisualStyleBackColor = true;
+            this.binh_phuong.Click += new System.EventHandler(this.binh_phuong_Click);
             // 
             // phan_so
             // 
@@ -287,15 +293,16 @@
             this.phan_so.TabIndex = 24;
             this.phan_so.Text = "1/x";
             this.phan_so.UseVisualStyleBackColor = true;
+            this.phan_so.Click += new System.EventHandler(this.phan_so_Click);
             // 
             // textBox1
             // 
-            this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(4, 12);
+            this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox1.Location = new System.Drawing.Point(4, 13);
             this.textBox1.Name = "textBox1";
             this.textBox1.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.textBox1.Size = new System.Drawing.Size(198, 31);
-            this.textBox1.TabIndex = 25;
+            this.textBox1.TabIndex = 27;
             // 
             // Form1
             // 
